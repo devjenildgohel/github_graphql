@@ -1,3 +1,3 @@
 class ApiUtils {
-  static const githubToken = "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";
+  static const githubToken = "{ADD_YOUR_GITHUB_TOKEN}";
 }
